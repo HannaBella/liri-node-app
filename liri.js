@@ -29,7 +29,6 @@ var getconcert = function(bandName) {
 
 //movie search from omdb
 var getmovie = function(movieName) {
-    // We then run the request with axios module on a URL with a JSON
 
     if (!movieName) {
         movieName = "Mr.Nobody";
