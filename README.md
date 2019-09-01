@@ -20,3 +20,25 @@
 * OMDB API
 * Bands In Town API
 * Spotify API
+
+### How to use
+Search for events by using artist or band name
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-bandsInTown.png">
+
+Search songs with song name 
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-song.png">
+
+Search songs without song name i.e. LIRI default for song search
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-song-default.png">
+
+Search movies with movie name and with no user input i.e. LIRI default for movie search
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/movie-this.png">
+
+Liri default
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/doWhatItSays.png">
+
+## Contributor
+
+![Hanna Tefera](https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/my-pic.png)
+
+
