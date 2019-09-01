@@ -23,19 +23,19 @@
 
 ### How to use
 Search for events by using artist or band name
-<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-bandsInTown.png" height=300 width=400>
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-bandsInTown.png">
 
 Search songs with song name 
-<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-song.png" height=300 width=400>
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-song.png">
 
 Search songs without song name i.e. LIRI default for song search
-<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-song-default.png" height=200 width=400>
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/search-song-default.png">
 
-Search movies with movie name and with no user input i.e. LIRI default for movie search
-<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/movie-this.png" height=300 width=400>
+Search movies with movie name and without movie name i.e. LIRI default for movie search
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/movie-this.png">
 
 Liri default
-<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/doWhatItSays.png" height=200 width=400>
+<img src="https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/doWhatItSays.png">
 
 ## Contributor Hanna Tefera
 
