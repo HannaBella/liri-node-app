@@ -39,6 +39,6 @@ Liri default
 
 ## Contributor Hanna Tefera
 
-![Hanna Tefera](https://raw.githubusercontent.com/HannaBella/Responsive-Portfolio/master/assets/images/my-pic.png)
+
 
 
